@@ -1,0 +1,20 @@
+
+Depois de criar repositorio copiar os comandos da segunda linha
+…or push an existing repository from the command line
+
+copiar os 3 comandos copiar e da enter
+
+abrir gitbash
+
+digitar os comandos
+
+git init=server para iniciar pasta
+
+git status=serve para verificar os arquivos da pasta
+
+git add .=serve para agrupar os arquivos e praparar para envio
+
+git commit -m "digitar mensagem" = serve para inserir um comentario no projeto
+
+colar os 3 comandos do repositorio e dar enter
+
